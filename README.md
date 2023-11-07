@@ -2,17 +2,18 @@
 
 <br>
 <br>
-<br>
-<br>
 
+ ### Architecture :
+
+<br>
 
 ![image](https://github.com/virajmate7776/Serverless-Web-Application/assets/117629972/265b0138-4a83-4d99-a78c-a94308f8e277)
 
 <br>
-<br>
 
 
-#### The application architecture uses AWS Lambda, Amazon API Gateway, Amazon DynamoDB, and AWS Amplify Console. Amplify Console provides continuous deployment and hosting of the static web resources including HTML, CSS, JavaScript, and image files which are loaded in the user's browser. JavaScript executed in the browser sends and receives data from a public backend API built using Lambda and API Gateway Finally, DynamoDB provides a persistence layer where data can be stored by the API's Lambda function.
+
+  ####   The application architecture uses AWS Lambda, Amazon API Gateway, Amazon DynamoDB, and AWS Amplify Console. Amplify Console provides continuous deployment and hosting of the static web resources including HTML, CSS, JavaScript, and image files which are loaded in the user's browser. JavaScript executed in the browser sends and receives data from a public backend API built using Lambda and API Gateway Finally, DynamoDB provides a persistence layer where data can be stored by the API's Lambda function.
 
 
 <br>
